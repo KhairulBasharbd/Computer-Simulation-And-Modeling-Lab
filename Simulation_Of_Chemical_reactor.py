@@ -26,7 +26,7 @@ def main():
 
     
 
-    print('Time\t A(i)\t C(i)\tC(i)')
+    print('Time\t A(i)\t B(i)\tC(i)')
 
     for i in range(totalStep+1):
 
